@@ -26,5 +26,21 @@ Source dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 | Predicted Negative |         16        |         11         |
 
 Accuracy: 73.26% 
+
 **Decision Tree**
+
+| _Confusion Matrix_ | **True Positive** | **False Negative** |
+|:------------------:|:-----------------:|:------------------:|
+| Predicted Positive |         55        |          4         |
+| Predicted Negative |         19        |          8         |
+
+Accuracy: 73.26% 
+
 **Bayes**
+
+| _Confusion Matrix_ | **True Positive** | **False Negative** |
+|:------------------:|:-----------------:|:------------------:|
+| Predicted Positive |         54        |          5         |
+| Predicted Negative |         21        |          6         |
+
+Accuracy: 69.77% 
