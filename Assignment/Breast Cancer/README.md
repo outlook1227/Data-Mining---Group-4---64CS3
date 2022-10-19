@@ -31,7 +31,7 @@ Note:
 
 Accuracy: 73.26% 
 
-<img src="ROC Curve Naive Bayes.png" alt="isolated" width="200"/>
+<img src="ROC Curve Naive Bayes.png" alt="isolated" width="600"/>
 
 **Decision Tree**
 
