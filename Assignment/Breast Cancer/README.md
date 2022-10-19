@@ -18,6 +18,10 @@ Source dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 
 # Data Visualization: Confusion Matrix and ROC (Receiver Operating Characteristic)
 
+Note: 
+- Positive: No Recurrence Events
+- Negative: Recurrence Events
+
 **Naive Bayes**
 
 | _Confusion Matrix_ | **True Positive** | **False Negative** |
