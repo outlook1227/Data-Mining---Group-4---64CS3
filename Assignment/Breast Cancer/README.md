@@ -31,6 +31,8 @@ Note:
 
 Accuracy: 73.26% 
 
+![image info](./pictures/ROC Curve Naive Bayes.png)
+
 **Decision Tree**
 
 | _Confusion Matrix_ | **True Positive** | **False Negative** |
