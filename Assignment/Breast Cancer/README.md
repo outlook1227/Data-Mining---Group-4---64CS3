@@ -3,6 +3,8 @@
 **About the Dataset**
 This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. (See also lymphography and primary-tumor.)
 
+Source dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+
 1. Class: no-recurrence-events, recurrence-events
 2. age: 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89, 90-99.
 3. menopause: lt40, ge40, premeno.
