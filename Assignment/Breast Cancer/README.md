@@ -44,6 +44,8 @@ Accuracy: 73.26%
 
 <img src="ROC Curve Decision Tree.png" alt="isolated"/>
 
+<font size="8"><b>Decision Tree Diagram</b></font>
+
 <img src="tree.png" alt="isolated"/>
 
 **Bayes**
