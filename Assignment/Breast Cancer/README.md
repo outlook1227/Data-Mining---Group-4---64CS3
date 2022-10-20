@@ -42,11 +42,15 @@ Accuracy: 73.26%
 
 Accuracy: 73.26% 
 
+<img src="ROC Curve Decision Tree.png" alt="isolated"/>
+
 **Bayes**
 
 | _Confusion Matrix_ | **True Positive** | **False Negative** |
 |:------------------:|:-----------------:|:------------------:|
 | Predicted Positive |         54        |          5         |
 | Predicted Negative |         21        |          6         |
+
+<img src="ROC Curve Bayes.png" alt="isolated"/>
 
 Accuracy: 69.77% 
