@@ -59,4 +59,4 @@ Accuracy: 69.77%
 
 <img src="Overall ROC.png" alt="isolated"/>
 
- <font size="5"> <br>This is my text number 5</br></font> 
+ <font size="10"><b>This is my text number 5</b></font> 
