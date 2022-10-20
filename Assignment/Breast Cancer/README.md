@@ -55,8 +55,7 @@ Accuracy: 69.77%
 
 <img src="ROC Curve Bayes.png" alt="isolated"/>
 
-#**Overall ROC**
+**Overall ROC**
 
 <img src="Overall ROC.png" alt="isolated"/>
 
- <font size="10"><b>This is my text number 5</b></font> 
