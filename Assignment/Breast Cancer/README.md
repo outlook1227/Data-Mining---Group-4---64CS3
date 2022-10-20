@@ -51,6 +51,10 @@ Accuracy: 73.26%
 | Predicted Positive |         54        |          5         |
 | Predicted Negative |         21        |          6         |
 
+Accuracy: 69.77% 
+
 <img src="ROC Curve Bayes.png" alt="isolated"/>
 
-Accuracy: 69.77% 
+# **Overall ROC**
+
+<img src="Overall ROC.png" alt="isolated"/>
