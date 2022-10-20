@@ -44,6 +44,8 @@ Accuracy: 73.26%
 
 <img src="ROC Curve Decision Tree.png" alt="isolated"/>
 
+<img src="tree.png" alt="isolated"/>
+
 **Bayes**
 
 | _Confusion Matrix_ | **True Positive** | **False Negative** |
