@@ -57,9 +57,9 @@ Accuracy: 73.26%
 
 Accuracy: 69.77% 
 
-<img src="" alt="isolated"/>
+<img src="ROC Curve Bayes.png" alt="isolated"/>
 
 **Overall ROC**
 
-<img src="" alt="isolated"/>
+<img src="Overall ROC.png" alt="isolated"/>
 
