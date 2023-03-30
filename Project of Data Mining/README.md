@@ -3,5 +3,6 @@ Name of Project: Bank Marketing with the Algorithms - Naive Bayes, Random Forest
 
 Model: Using LSTM (Long-Term Short Memory)
 
-Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+Dataset Source: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
 **Result and Observations: F1 Score, ROC, Accuracy, Percision and Confusions Matrix**
